@@ -1,0 +1,22 @@
+{
+  "name": "whenugopal",
+  "version": "1.0.0",
+  "description": "Mario! it's me. yet another random POC module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whenugopal/whenugopal.git"
+  },
+  "keywords": [
+    "whenugopal"
+  ],
+  "author": "whenugopal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whenugopal/whenugopal/issues"
+  },
+  "homepage": "https://github.com/whenugopal/whenugopal#readme"
+}
