@@ -1,4 +1,4 @@
-# Yet Another POC
+# Yet Another POC - A Node Package
 
 ![Package](https://media.giphy.com/media/2o7RehcKvyuGqiTDOn/giphy.gif)
 
@@ -36,7 +36,8 @@ Available devices
 - mobiles
 - tablets
 - desktop
-  Replace the above deviceName with whatever you want and you can add as many urls you want
+
+Replace the above deviceName with whatever you want and you can add as many urls you want
 
 ## FAQ
 
